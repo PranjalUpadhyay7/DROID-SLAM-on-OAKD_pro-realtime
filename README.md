@@ -1,6 +1,6 @@
 # DROID-SLAM
 
-
+# Modified some codes and intergrate realtime Oakd in original DROID SLAM
 <!-- <center><img src="misc/DROID.png" width="640" style="center"></center> -->
 
 
