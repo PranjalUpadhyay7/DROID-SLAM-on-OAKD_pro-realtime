@@ -80,11 +80,19 @@ pip install gdown
 python setup.py install
 ``` -->
 
-##For OAKD realtime
+## For OAKD realtime
 
 Credit to Sattwik sahu
 ```Bash
 pip install git+https://github.com/sattwik-sahu/oakd-vio-zmq.git
+```
+Terminal 1:
+```Bash
+oakd-vio-zmq  cam_set --fps <FPS>
+```
+Terminal 2:
+```Bash
+python logi_demo.py --calib=oakd_calib.txt
 ```
 ## Demos
 
