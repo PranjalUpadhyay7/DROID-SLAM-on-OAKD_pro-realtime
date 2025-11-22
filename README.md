@@ -80,7 +80,12 @@ pip install gdown
 python setup.py install
 ``` -->
 
+##For OAKD realtime
 
+Credit to Sattwik sahu
+```Bash
+pip install git+https://github.com/sattwik-sahu/oakd-vio-zmq.git
+```
 ## Demos
 
 1. Download the model from google drive: [droid.pth](https://drive.google.com/file/d/1PpqVt1H4maBa_GbPJp4NwxRsd9jk-elh/view?usp=sharing) or with
